@@ -1,0 +1,2 @@
+We are making a website which basically describe how much food we are wasting that can be saved by us only, we are stating the facts about it and letting people know about different NGOs in different cities which are working on it with latest events. There will also be a quiz for examining oneself. Also the user can give their feedback about the website. 
+We are done with the quiz part and more than half of the main website has been done and will complete the full project very soon.
